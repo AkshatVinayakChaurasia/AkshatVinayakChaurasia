@@ -6,15 +6,13 @@ I'm an engineering student focused on building products that solve real-world pr
 
 Currently building:
 
-## 🚀 Saviour
+## 🚀 Saviour & Civic-Eye
 
 An AI-powered digital wellbeing & focus platform designed to transform distracting website visits into intentional recovery experiences.
 
 ---
 
 # 🛠️ MY Tech Stack
-
-## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
@@ -52,8 +50,8 @@ An AI-powered digital wellbeing & focus platform designed to transform distracti
 # 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/akshat-chaurasia-a10943402](http://www.linkedin.com/in/akshat-chaurasia-a10943402)
-* Instagram: instagram.com/@akshatchaurasia
-* GitHub: github.com/AkshatVinayakChaurasia
+* Instagram: [instagram.com/@akshatchaurasia](https://instagram.com/akshatchaurasia)
+* GitHub: [github.com/AkshatVinayakChaurasia](https://github.com/AkshatVinayakChaurasia)
 
 ---
 
